@@ -1,0 +1,2 @@
+- Code by: Kenny Yip Coding (https://www.youtube.com/watch?v=baBq5GAL0_U&ab_channel=KennyYipCoding)
+- Using snake game as an example for me to understand JavaScript and how to use it in HTML.
